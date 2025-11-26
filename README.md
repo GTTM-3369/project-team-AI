@@ -5,7 +5,6 @@ LicensePlateRecognition/
 
 ├── app.py  # File chính chạy
 
-├── run.ipynb                  # Notebook để chạy trực tiếp
 
 │
 
